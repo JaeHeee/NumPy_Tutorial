@@ -14,6 +14,7 @@
 | Num.|Name|Code|
 |:---:|---|:---:|
 | 1 | 배열 생성 | [Code](https://github.com/JaeHeee/NumPy_Tutorial/blob/master/code/%EB%B0%B0%EC%97%B4_%EC%83%9D%EC%84%B1.ipynb) |
+| 2 | 배열 데이터 | [Code](https://github.com/JaeHeee/NumPy_Tutorial/blob/master/code/%EB%B0%B0%EC%97%B4_%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb) |
 
 <br>
 
